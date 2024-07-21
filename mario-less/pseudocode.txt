@@ -1,0 +1,5 @@
+I use three for loops
+A control line number,
+The other two are responsible for printf symbols, including # and spaces
+
+The number of executions of these three loops depends on the n input parameter.
